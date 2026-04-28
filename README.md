@@ -39,4 +39,4 @@ Objetivo
 Este portfólio tem como objetivo demonstrar minha evolução na área de tecnologia, com foco em desenvolvimento web e aplicação prática de conhecimentos.
 
 Status
-🔄 Em constante atualização
+Em constante atualização
